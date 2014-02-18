@@ -1,7 +1,7 @@
 Clear Channel Ashavsky Repo
 ===================
 
-This is the repo for ongoing Clear Channel development (only for open-source and non-business related coded code). 
+This is the repo for ongoing Clear Channel development and is propery of Clear Channel/Katz Media and cannot be used without proper authorization. 
 
 Contact: 
 
