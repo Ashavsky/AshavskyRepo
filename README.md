@@ -8,6 +8,7 @@ This repo contains some sample code while worked on at iHeartMedia.
 3. DOS: Simple script for automated qlikview reloads
 4. Powershell: ETL script going for moving files between servers and checking for corrupted files
 5. Python: Fuzzy Matching Script in python using edit distance (optimized for advertisers)
+6. Python: Simple script for archiving files base on age (version sensitive and with logging)
 
 Contact: 
 
