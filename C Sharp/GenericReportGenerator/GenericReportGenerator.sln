@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericReportGenerator", "GenericReportGenerator\GenericReportGenerator.csproj", "{784EFC8D-1BCF-4BB7-8E68-9D2862A851E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportGenerator.Tasks", "ReportGenerator.Tasks\ReportGenerator.Tasks.csproj", "{1EFA3DDA-D540-49BC-9DAD-8DE2E5240BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportGenerator.Tests.Integration", "ReportGenerator.Tests.Integration\ReportGenerator.Tests.Integration.csproj", "{C68F2595-64A2-4E4A-A9E6-418A00DB0765}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportGenerator.Tests.Unit", "ReportGenerator.Tests.Unit\ReportGenerator.Tests.Unit.csproj", "{7A37A340-E4C5-48A4-9F14-3EB8E530E68A}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://kmctfs01nyc:8080/tfs/kmc
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GenericReportGenerator\\GenericReportGenerator.csproj
+		SccProjectName1 = GenericReportGenerator
+		SccLocalPath1 = GenericReportGenerator
+		SccProjectUniqueName2 = ReportGenerator.Tasks\\ReportGenerator.Tasks.csproj
+		SccProjectName2 = ReportGenerator.Tasks
+		SccLocalPath2 = ReportGenerator.Tasks
+		SccProjectUniqueName3 = ReportGenerator.Tests.Integration\\ReportGenerator.Tests.Integration.csproj
+		SccProjectName3 = ReportGenerator.Tests.Integration
+		SccLocalPath3 = ReportGenerator.Tests.Integration
+		SccProjectUniqueName4 = ReportGenerator.Tests.Unit\\ReportGenerator.Tests.Unit.csproj
+		SccProjectName4 = ReportGenerator.Tests.Unit
+		SccLocalPath4 = ReportGenerator.Tests.Unit
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{784EFC8D-1BCF-4BB7-8E68-9D2862A851E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{784EFC8D-1BCF-4BB7-8E68-9D2862A851E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{784EFC8D-1BCF-4BB7-8E68-9D2862A851E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{784EFC8D-1BCF-4BB7-8E68-9D2862A851E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFA3DDA-D540-49BC-9DAD-8DE2E5240BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFA3DDA-D540-49BC-9DAD-8DE2E5240BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFA3DDA-D540-49BC-9DAD-8DE2E5240BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFA3DDA-D540-49BC-9DAD-8DE2E5240BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68F2595-64A2-4E4A-A9E6-418A00DB0765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68F2595-64A2-4E4A-A9E6-418A00DB0765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68F2595-64A2-4E4A-A9E6-418A00DB0765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68F2595-64A2-4E4A-A9E6-418A00DB0765}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A37A340-E4C5-48A4-9F14-3EB8E530E68A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A37A340-E4C5-48A4-9F14-3EB8E530E68A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A37A340-E4C5-48A4-9F14-3EB8E530E68A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A37A340-E4C5-48A4-9F14-3EB8E530E68A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
