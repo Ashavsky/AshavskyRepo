@@ -1,7 +1,10 @@
-Clear Channel Ashavsky Repo
+iHeart Ashavsky Repo
 ===================
 
-This is the repo for ongoing Clear Channel development and is property of Clear Channel/Katz Media and cannot be used without proper authorization. 
+This repo contains some sample code while worked on at iHeartMedia.
+
+1) Presentation of dependency injections (swapping out persistence layers)
+2) Automated report generation using App Configs
 
 Contact: 
 
